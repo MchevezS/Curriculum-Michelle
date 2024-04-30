@@ -75,9 +75,42 @@
         position: relative;
          left: 80px;
 }
+     .educacion1 {
+        position: relative;
+        left: 40px;
+}
 
+     .trabajo1 {
+        position: relative;
+          left: 80px;
+}
 
+      .trabajo2 {
+        position: relative;
+        left:40px ;
+}
 
+        .liceria {
+            position: relative;
+            left: 80px;
+}       
 
+       .liceria2 {
+          position: relative;
+          left: 40px;
+}
+ 
+           .job {
+            position: relative;
+            left: 80px;
+}
 
+         .skill {
+             position: relative;
+               left: 40px;
+} 
 
+          .personalskill {
+              position: relative;
+                left: 80px;
+}         
