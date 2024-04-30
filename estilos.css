@@ -17,3 +17,21 @@ font-weight: 100px;
     display: flex;
     gap: 54px;
 }
+.linea{
+    border-left: 2px solid black;
+    height: 175px;
+}
+.hola {
+    width: 200px;
+    margin-left: 15x;
+    margin-right: 15px;
+    height: 2px;
+    background-color: black;
+}
+.correo {
+
+}
+
+
+
+
