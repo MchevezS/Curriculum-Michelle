@@ -1,62 +1,81 @@
-.container{
-    
-    border: 4px solid rgb(0, 0, 0);
-}
-.name{text-align: center;}
-.STUDENT{text-align: center;}
-
-.footer{
-    display: flex;
-    gap: 200px;
-}
-.iconos{
-font-weight: 100px;
+  .container {
+     border: 4px solid rgb(0, 0, 0);
 }
 
-.skill{
-    display: flex;
-    gap: 54px;
+  .name {
+    text-align: center;
 }
-.linea{
-    margin-right: 400;
-    border-left: 2px solid black;
-    height: 175px;
+
+   .STUDENT{ 
+    text-align: center;
 }
-.acomodar{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+   .footer {
+      display: flex;
+      gap: 300px;
+} 
+  .skill {
+      display: flex;
+        gap: 54px;
 }
-.hobby{
-    margin-left: -10px;
+
+     .iconos {
+        font-weight: 100px;
 }
-.hola {
-    display: flex;
-    width: 200px;
-    border: 2px solid;
-    margin-right: 20px;
-    margin-left: 20px;
+     .acomodar {
+          display: flex;
+          align-items: center;
+           justify-content: center;
 }
-.play1 {
-    margin: 20px;
-    width: 50px;
+
+      .hobby {
+            margin-left: -10px;
 }
-.play2 {
-    margin: 20px;
-    width: 50px;
+
+      .hola {
+        display: flex;
+         width: 200px;
+           border: 2px solid;
+             margin-right: 20px;
+                margin-left: 20px;
 }
-.play3 {
-    margin: 20px;
-    width: 50px;
+      .play1 {
+          margin: 20px;
+            width: 50px;
 }
-.play4 {
-    margin:20px;
-    width:50px;
+
+      .play2 {
+          margin: 20px;
+            width: 50px;
 }
-.moverse{
- display: flex;
- flex-direction: column; 
+
+      .play3 {
+          margin: 20px;
+            width: 50px;
 }
+
+      .play4 {
+         margin:20px;
+          width:50px;
+}
+
+       .moverse {
+           display: flex;
+             flex-direction: column; 
+             position: relative;
+             left: 900px;
+             border-left: 2px solid #000;
+
+             h2{
+                margin-left: 20px;
+             }
+}
+
+    .educacion {
+        position: relative;
+         left: 80px;
+}
+
 
 
 
