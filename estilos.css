@@ -53,9 +53,9 @@ font-weight: 100px;
     margin:20px;
     width:50px;
 }
-.juegos{
+.moverse{
  display: flex;
- 
+ flex-direction: column; 
 }
 
 
