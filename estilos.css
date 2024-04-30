@@ -18,19 +18,46 @@ font-weight: 100px;
     gap: 54px;
 }
 .linea{
+    margin-right: 400;
     border-left: 2px solid black;
     height: 175px;
 }
+.acomodar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hobby{
+    margin-left: -10px;
+}
 .hola {
+    display: flex;
     width: 200px;
-    margin-left: 15x;
-    margin-right: 15px;
-    height: 2px;
-    background-color: black;
+    border: 2px solid;
+    margin-right: 20px;
+    margin-left: 20px;
 }
-.correo {
+.play1 {
+    margin: 20px;
+    width: 50px;
+}
+.play2 {
+    margin: 20px;
+    width: 50px;
+}
+.play3 {
+    margin: 20px;
+    width: 50px;
+}
+.play4 {
+    margin:20px;
+    width:50px;
+}
+.juegos{
+ display: flex;
+ 
+}
 
-}
 
 
 
