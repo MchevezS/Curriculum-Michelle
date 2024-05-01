@@ -21,12 +21,14 @@
 
      .iconos {
         font-weight: 100px;
+           position: relative;  
+            left: 430px;  
 }
      .acomodar {
           display: flex;
           align-items: center;
            justify-content: center;
-}
+} 
 
       .hobby {
             margin-left: -10px;
@@ -114,3 +116,10 @@
               position: relative;
                 left: 80px;
 }         
+
+         
+
+
+
+
+
