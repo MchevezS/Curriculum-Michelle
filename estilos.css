@@ -4,6 +4,7 @@
 
   .name {
     text-align: center;
+    font-size: 50px;
 }
 
    .STUDENT{ 
@@ -22,7 +23,7 @@
      .iconos {
         font-weight: 100px;
            position: relative;  
-            left: 430px;  
+            left: 975px;  
 }
      .acomodar {
           display: flex;
@@ -32,6 +33,7 @@
 
       .hobby {
             margin-left: -10px;
+            font-size: 50px;
 }
 
       .hola {
@@ -74,52 +76,67 @@
 }
 
     .educacion {
-        position: relative;
-         left: 80px;
+      position: relative;   
+      left: 80px;
+            font-size: 45px;
 }
      .educacion1 {
-        position: relative;
-        left: 40px;
+       position: relative;
+         left: 40px;
+            font-size: 45px;
+
 }
 
      .trabajo1 {
         position: relative;
           left: 80px;
+            font-size: 45px;
 }
 
       .trabajo2 {
         position: relative;
         left:40px ;
+        font-size: 45px;
 }
 
         .liceria {
             position: relative;
-            left: 80px;
+             left: 80px;
+              font-size: 40px;
 }       
 
        .liceria2 {
           position: relative;
-          left: 40px;
+           left: 40px;
+            font-size: 45px;
+              
 }
  
            .job {
             position: relative;
-            left: 80px;
+             left: 80px;
+              font-size:45px;
 }
 
          .skill {
              position: relative;
-               left: 40px;
+               left: 750px;
+
 } 
 
           .personalskill {
               position: relative;
                 left: 80px;
-}         
+                 font-style: normal;
+                   font-size:45px;
+}        
 
-         
+      .contenedor-educacion {
+        position: absolute;
 
+}
 
-
-
+         .foto {
+           margin-left: 1600px;
+   }
 
