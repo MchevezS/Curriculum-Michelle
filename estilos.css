@@ -9,6 +9,7 @@
 
    .STUDENT{ 
     text-align: center;
+    font-size: 40px;
 }
 
    .footer {
@@ -23,7 +24,7 @@
      .iconos {
         font-weight: 100px;
            position: relative;  
-            left: 975px;  
+            left: 1185px;  
 }
      .acomodar {
           display: flex;
@@ -120,8 +121,7 @@
 
          .skill {
              position: relative;
-               left: 750px;
-
+               left: 185px;
 } 
 
           .personalskill {
@@ -137,6 +137,40 @@
 }
 
          .foto {
-           margin-left: 1600px;
-   }
+          
+           margin-left: 2000px;
+           
+}
+.foto:hover{
+  transform: scale(1.8);
+   transition: 4s;
+}
 
+p{
+  font-size: 30px;
+}
+ 
+.CREATIVE:hover {
+  transform: scale(1.2);
+  transition: 4s;
+}
+ 
+.ATTENTION:hover {
+     transform: scale(1.2);
+                    transition: 4s;
+}
+
+  .ILIKETOHELP:hover {
+    transform: scale(1.2);
+                    transition: 4s;
+  }
+
+  .GoodLeader:hover {
+    transform: scale(1.2);
+                    transition: 4s;
+  }
+
+    .Responsible:hover {
+      transform: scale(1.2);
+                      transition: 4s;
+    }
