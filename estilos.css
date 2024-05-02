@@ -135,46 +135,49 @@
                 left: 500px;
            
 }
-.foto:hover{
-  transform: scale(1.1);
-   transition: 4s;
+        .foto:hover{
+           transform: scale(1.1);
+              transition: 4s;
 }
 
-p{
-  font-size: 34px;
-}
- 
-.CREATIVE:hover {
-  transform: scale(1.2);
-  transition: 4s;
+        p{
+          font-size: 34px;
 }
  
-.ATTENTION:hover {
-     transform: scale(1.2);
-                    transition: 4s;
-}
-
-  .ILIKETOHELP:hover {
-    transform: scale(1.2);
-                    transition: 4s;
-  }
-
-  .GoodLeader:hover {
-    transform: scale(1.2);
-                    transition: 4s;
-  }
-
-    .Responsible:hover {
-      transform: scale(1.2);
+              .CREATIVE:hover {
+                   transform: scale(1.2);
                       transition: 4s;
-    }
-.skill4{
-  display: grid;
-   grid-template-columns: repeat(5,1fr);
-    position: relative;
-      left:300px;
+}
+ 
+       .ATTENTION:hover {
+            transform: scale(1.2);
+                    transition: 4s;
 }
 
-.container2{
-  display: flex;
+               .ILIKETOHELP:hover {
+                       transform: scale(1.2);
+                          transition: 4s;
+  }
+
+             .GoodLeader:hover {
+                 transform: scale(1.2);
+                    transition: 4s;
+  }
+
+          .Responsible:hover {
+               transform: scale(1.2);
+                      transition: 4s;
+  }
+        .skill4{
+           display: grid;
+              grid-template-columns: repeat(5,1fr);
+                 position: relative;
+                     left:300px;
 }
+
+                  .container2{
+                       display: flex;
+}
+
+
+
